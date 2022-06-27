@@ -1,7 +1,7 @@
 ### Oi! sou o Guilherme Grillo
 
-- 😄 Aluno Generation Brasil
-- 🌱 Atualmente estou aprendendo .NET...
+- Formado no bootcamp da Generation Brasil em parceria com a Microsoft
+- Desenvolvedor junior 
 
 <div align="center">
   <a href="https://github.com/grillogui">
