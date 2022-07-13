@@ -1,7 +1,8 @@
 ### Oi! sou o Guilherme Grillo
 
-- Formado no bootcamp da Generation Brasil em parceria com a Microsoft
-- Desenvolvedor junior 
+- Formado no bootcamp da Generation Brasil em parceria com a Microsoft.
+- Cursando Graduação em Análise e Desenvolvimento de Sistemas.
+- Formado no Ensino Médio Técnico de Informática.
 
 <div align="center">
   <a href="https://github.com/grillogui">
